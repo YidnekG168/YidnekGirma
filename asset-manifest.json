@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/YidnekG168/YidnekGirma/static/css/main.39400f59.css",
+    "main.js": "/YidnekG168/YidnekGirma/static/js/main.6a5d07d4.js",
+    "static/media/heroImage.png": "/YidnekG168/YidnekGirma/static/media/heroImage.b19608ce71cecdf190be.png",
+    "static/media/react.png": "/YidnekG168/YidnekGirma/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/YidnekG168/YidnekGirma/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/YidnekG168/YidnekGirma/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/YidnekG168/YidnekGirma/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/python.png": "/YidnekG168/YidnekGirma/static/media/python.4859f801ae28a9ef09f8.png",
+    "static/media/javascript.png": "/YidnekG168/YidnekGirma/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/YidnekG168/YidnekGirma/index.html",
+    "main.39400f59.css.map": "/YidnekG168/YidnekGirma/static/css/main.39400f59.css.map",
+    "main.6a5d07d4.js.map": "/YidnekG168/YidnekGirma/static/js/main.6a5d07d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39400f59.css",
+    "static/js/main.6a5d07d4.js"
+  ]
+}
